@@ -209,4 +209,4 @@ Torque Game Builder is offered as a full free version with all features and upda
 Unleash your creativity and start building incredible games today with Torque Game Builder! Download now and enjoy the full version with all features included.
 
 ---
-**Last updated:** 2026-09-24 22:03:33 UTC
+**Last updated:** 2026-09-25 01:12:17 UTC
